@@ -1,0 +1,27 @@
+[
+    {
+        "Label": "Aaseya",
+        "Applications": [
+            {
+                "Status": "Red",
+                "Name": "Inspection",
+                "ActionItems": "GFojfdi idf iudf iudfh iudfvhdiuf diufh"
+            }
+        ]
+    },
+    {
+        "Label": "AI4Process",
+        "Applications": [
+            {
+                "Status": "Red",
+                "Name": "Booking application",
+                "ActionItems": "GFojfdi idf iudf iudfh iudfvhdiuf diufh"
+            },
+            {
+                "Status": "Green",
+                "Name": "Learning management",
+                "ActionItems": "test idf iudf iudfh iudfvhdiuf diufh"
+            }
+        ]
+    }
+]
