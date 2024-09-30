@@ -197,7 +197,7 @@ export default {
 
 export async function exportSlidevPPTX() {
   return new Promise((resolve, reject) => {
-    exec('slidev export --format pptx', (error, stdout, stderr) => {
+    exec('sudo slidev export --format pptx', (error, stdout, stderr) => {
       if (error) {
         console.error(`Error exporting Slidev PPTX: ${error.message}`);
         return reject(error);
